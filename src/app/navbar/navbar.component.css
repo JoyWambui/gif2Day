@@ -1,11 +1,13 @@
 .navbar{
   background-color: black;
 }
-.navbar-brand{
-  font-size: 60px;
-  font-family: 'Balsamiq Sans', cursive;
-
+h1{
+  font-size: 80px;
+  font-family: 'Playfair Display', serif;
+  margin: 0px 80px;
 }
-.collapse{
-  font-size: 30px;
+.nav-link{
+  font-size: 40px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+    margin: 0px 30px;;
 }
