@@ -1,0 +1,11 @@
+.navbar{
+  background-color: black;
+}
+.navbar-brand{
+  font-size: 60px;
+  font-family: 'Balsamiq Sans', cursive;
+
+}
+.collapse{
+  font-size: 30px;
+}
