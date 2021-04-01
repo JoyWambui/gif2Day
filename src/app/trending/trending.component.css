@@ -1,0 +1,9 @@
+img{
+  width: 100%;
+}
+.gifs{
+  margin: 3px 0px ;
+}
+.container-fluid{
+  background-image: linear-gradient(to right, #0f0c29,#302b63,#24243e);
+}
